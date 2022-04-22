@@ -28,6 +28,7 @@ h1{
     position:relative;
     margin-left:80px;
     line-height: 2.2rem;
+   
 }
 
 .result {
@@ -36,8 +37,3 @@ h1{
     margin-bottom: 10px;
 }
 
-.highlight {
-
-    
-
-}
