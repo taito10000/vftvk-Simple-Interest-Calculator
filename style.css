@@ -30,9 +30,11 @@ h1{
     line-height: 2.2rem;
    
 }
-.speccontainer h1 {
+#rate {
 
-    color: white;
+        accent-color: rgb(0, 123, 255);
+        background-color: white;
+
 
 }
 
